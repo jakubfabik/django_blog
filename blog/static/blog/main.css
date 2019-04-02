@@ -1,11 +1,12 @@
 body {
   background: #151721;
-  color: #333333;
+  color: #cbd5db;
   margin-top: 5rem;
+  margin-left: 18rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #444444;
+  color: #cbd5db;
 }
 
 ul {
@@ -30,7 +31,7 @@ ul {
 
 .content-section {
   background: #151721;
-  padding: 10px 20px;
+  padding: 10px 10px;
   border: 1px solid #151721;
   border-radius: 3px;
   margin-bottom: 20px;
@@ -62,7 +63,7 @@ a.article-title:hover {
 }
 
 .article-metadata a:hover {
-  color: #333;
+  color: #cbd5db;
   text-decoration: none;
 }
 
@@ -81,4 +82,8 @@ a.article-title:hover {
 
 .account-heading {
   font-size: 2.5rem;
+}
+
+.btn {
+  margin-left: 1rem;
 }
